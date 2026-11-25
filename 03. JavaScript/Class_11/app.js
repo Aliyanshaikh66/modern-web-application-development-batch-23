@@ -14,7 +14,7 @@
 // }
 
 
-// let apikey = "128484d0e626477f90fcc8847a28aa56";
+// let apikey = "Enter your api key";
 // function
 
 // let apiKey = "";
@@ -23,7 +23,7 @@
 // let son = url.json();
 
 async function getWeather() {
-  let apikey = "128484d0e626477f90fcc8847a28aa56"; // profile section
+  let apikey = "Enter your api key"; // profile section
 //   let city = prompt("Enter Your City Name");
   let country = prompt("Enter Your Country Name");
   let findweather = await fetch(`https://api.openweathermap.org/data/2.5/weather?q=${country}&appid=${apikey}&units=metric`);

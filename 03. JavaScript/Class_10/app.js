@@ -120,7 +120,7 @@
 // console.log(userdata());
 
 // async function fetchPrice() {
-//   const response = await fetch("https://api.openweathermap.org/data/2.5/weather?lat=44.34&lon=10.99&appid={128484d0e626477f90fcc8847a28aa56}");
+//   const response = await fetch("https://api.openweathermap.org/data/2.5/weather?lat=44.34&lon=10.99&appid={Enter your api key}");
 //   const data = await response.json();
 //   return data.description;
 // }
@@ -137,7 +137,7 @@
 
 // async function weathercheck() {
 //   const lon = 10.99;
-//   let apiKey = "128484d0e626477f90fcc8847a28aa56";
+//   let apiKey = "Enter your api key";
 //   const response = await fetch(`https://openweathermap.org{lat}&lon=${lon}&appid=${apiKey}&units=metric`);
 //   const data = await response.json();
 //   console.log(data);
@@ -146,7 +146,7 @@
 // weathercheck();
 
 
-// let apiKey = "128484d0e626477f90fcc8847a28aa56";
+// let apiKey = "Enter your api key";
 // let lat = 44.34;
 // let lon = 10.99;
 // let url = `https://openweathermap.org{lat}&lon=${lon}&appid=${apiKey}&units=metric`;
@@ -178,7 +178,7 @@
 
 
 // function fetchPrice() {
-//   const response =  fetch("https://api.openweathermap.org/data/2.5/weather?lat=44.34&lon=10.99&appid={128484d0e626477f90fcc8847a28aa56}");
+//   const response =  fetch("https://api.openweathermap.org/data/2.5/weather?lat=44.34&lon=10.99&appid={Enter your api key}");
 //   const data =  response.json();
 //   return data.description;
 // }
