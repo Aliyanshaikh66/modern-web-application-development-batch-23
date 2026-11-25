@@ -1,0 +1,121 @@
+body{
+    background-color: burlywood;
+    /* margin: 0; */
+}
+.nav{
+    height: 60px;
+    width: 100%;
+    background-color: red;
+    /* text-align: center; */
+}
+.nav>img{
+    margin-top: 15px;
+    margin-left: 20px;
+}
+.navlinks{
+    margin-right: 10px;
+    margin-top: -40px;
+
+    text-align: center;
+}
+a{
+    display: inline-block;
+    /* border: 2px solid black; */
+    /* margin-top: -50px; */
+    padding: 5px;
+    text-decoration: none;
+    font-size: 20px;
+    color: yellow;
+    font-style: italic;
+    font-weight: bold;
+    font-family: "Kablammo", system-ui;
+    font-optical-sizing: auto;
+    font-variation-settings:"MORF" 0;
+}
+.btn>h2{
+    border: 2px solid black;
+    height: 30px;
+    width: 120px;
+    border-radius: 5px;
+    position: absolute;
+    right: 30px;
+    top: 2px;
+    position: fixed;
+}
+.btn>h2:hover{
+    color: green;
+    background-color: aqua;
+}
+ul>li{
+    list-style: square;
+}
+/* .container{
+    margin-left: 50px;
+    border-radius: 50px;
+    border: 2px solid rgb(59, 50, 50);
+    border-bottom-width: 10px;
+    background-color: rgb(177, 112, 112);
+    color: rgb(255, 0, 0);
+    height: 350px;
+    width: 300px;
+    overflow: scroll;
+    margin-bottom: 20px;
+    display: inline-block;
+    box-shadow: 2px 2px 29px 7px rgba(59,207,217,1);
+    -webkit-box-shadow: 2px 2px 29px 7px rgba(59,207,217,1);
+    -moz-box-shadow: 2px 2px 29px 7px rgba(59,207,217,1);
+}
+.container>img{
+    height: 170px;
+    width: 100%;
+     border-top-right-radius: 50px;
+     border-top-left-radius: 50px;
+}
+.container>h1{
+    color: black;
+    line-height: 2px;
+    padding-left: 10px;
+}
+li{
+    display: inline;
+}
+.abc{
+    border-image: url();
+    visibility: hidden;
+}
+.profile{
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+    border-radius: 10px;
+} */
+
+/* *{
+    margin: 0;
+    padding: 0;
+} */
+/* .container{
+    background-color: aqua;
+    border: 50px;
+    border-color: black;
+    border-style: solid;
+    height: 100px;
+    min-width: 600px;
+    margin-left: 10px;
+    padding-bottom: 10px;
+    border-top-color: yellow;
+    border-left-color: pink;
+    border-bottom-color: red;
+    border-right-color: green;
+} */
+
+/* .container>h1{
+    padding-left: 10px;
+
+} */
+/* @media (max-width:800px) {
+    .container{
+        background-color: aqua;
+    }
+    
+} */

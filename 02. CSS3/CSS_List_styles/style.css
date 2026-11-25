@@ -1,0 +1,33 @@
+/* ol{
+    list-style-type: upper-alpha;
+} */
+/* ol>li{
+    list-style-type: lower-alpha;
+}
+.list1{
+    list-style-type: lower-roman;
+}
+.list2{
+    list-style-type: decimal-leading-zero;
+}
+.illuminations{
+    list-style-position: inside;
+} */
+td{
+    border: 2px solid black;
+ }
+ .one{
+    empty-cells: hide;
+    border-collapse: separate;
+    /* border-spacing: 1px 30px; */
+ }
+ .td1:hover{
+    cursor: text;
+    color: yellow;
+    background-color: red;
+
+ }
+ .td2:hover{
+    background-color: green;
+
+ }

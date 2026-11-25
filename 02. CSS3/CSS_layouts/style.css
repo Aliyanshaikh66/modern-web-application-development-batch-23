@@ -1,0 +1,30 @@
+/* *{
+    background-color: gray;
+}
+.Parent{
+    border: 2px solid black;
+}
+.navbar{
+    position: absolute;
+    top: 40px;
+    left: 800px;
+    position: fixed;
+}
+img{
+    height: 80px;
+    width: 80px;
+    border-radius: 100%;
+    position: absolute;
+    right: 20px;
+    bottom: 20px;
+    position: fixed;
+} */
+.fa-solid{
+    position: absolute;
+    left: 11px;
+    top: 11px;
+    position: fixed;
+}
+.txt{
+    padding-left: 25px;
+}
